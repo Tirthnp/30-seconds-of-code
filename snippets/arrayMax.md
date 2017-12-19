@@ -8,3 +8,4 @@ Use `Math.max()` combined with the spread operator (`...`) to get the maximum va
 const arrayMax = arr => Math.max(...arr);
 // arrayMax([10, 1, 5]) -> 10
 ```
+kjbjhvjgluyg,
